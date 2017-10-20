@@ -1,0 +1,23 @@
+#box_1 { 
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+#box_2 {
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+	right: 0; 
+}
+#box_3 { 
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+#box_4 { 
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: violet;
+}
